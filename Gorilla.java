@@ -7,4 +7,9 @@ public class Gorilla extends Primate
   {
     System.out.println("The gorilla grunts.");
   }
+
+  public Gorilla()
+  {
+    System.out.println("A gorilla arrives.");
+  }
 }
